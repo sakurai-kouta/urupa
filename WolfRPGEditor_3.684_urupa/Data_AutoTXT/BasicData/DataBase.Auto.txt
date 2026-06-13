@@ -2023,7 +2023,7 @@ DATATYPE_0=1000
 DATATYPE_1=2000
 NUMDATA_TYPE_NUM=1
 STRDATA_TYPE_NUM=1
-DATA_NUM=5
+DATA_NUM=7
 TYPENAME=[SYSTEM]ゲーム定数
 ITEMNAME_NUM=2
 ITEMNAME0=数値
@@ -2148,7 +2148,9 @@ DEFAULT_VAL_1=0
 0,"https://script.google.com/macros/s/AKfycbwgPi9Lvtcu_VBxQ1zmPPWYpjwnaucafwjSNJCTAQ09oZJDRWgn40OFpxnsqZpg0kGy/exec",<<!--DATANAME--!>>★サーバ通信用URL,
 0,"set",<<!--DATANAME--!>>action_評価送信,
 0,"get",<<!--DATANAME--!>>action_評価取得,
-0,"",<<!--DATANAME--!>>,
+0,"set_map",<<!--DATANAME--!>>action_マップデータ送信,
+0,"get_map",<<!--DATANAME--!>>action_マップデータ受信,
+0,"get_list",<<!--DATANAME--!>>action_マップリスト受信,
 
 <<--CSV_END-->>
 ----

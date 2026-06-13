@@ -178,7 +178,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]1面の番人_会話"] <コモンEv 138> 
+■イベントの挿入[名]： ["[BLK]1面の番人_会話"] <コモンEv 142> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -228,7 +228,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]2面の番人_会話"] <コモンEv 139> 
+■イベントの挿入[名]： ["[BLK]2面の番人_会話"] <コモンEv 143> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -278,7 +278,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]3面の番人_会話"] <コモンEv 140> 
+■イベントの挿入[名]： ["[BLK]3面の番人_会話"] <コモンEv 144> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -328,7 +328,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -378,7 +378,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -428,7 +428,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]せっかちさん"] <コモンEv 143> 
+■イベントの挿入[名]： ["[BLK]せっかちさん"] <コモンEv 147> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -478,7 +478,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -528,7 +528,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -578,7 +578,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -628,7 +628,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -678,7 +678,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -728,7 +728,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -778,7 +778,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 141> 
+■イベントの挿入[名]： ["[BLK]4面の番人_会話"] <コモンEv 145> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -828,7 +828,7 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]エンディングステージに移動"] <コモンEv 133> 
+■イベントの挿入[名]： ["[BLK]エンディングステージに移動"] <コモンEv 137> 
 ■
 [COMMAND_TEXT_END]
 -----
@@ -878,6 +878,6 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]Exさん_会話"] <コモンEv 142> 
+■イベントの挿入[名]： ["[BLK]Exさん_会話"] <コモンEv 146> 
 ■
 [COMMAND_TEXT_END]
