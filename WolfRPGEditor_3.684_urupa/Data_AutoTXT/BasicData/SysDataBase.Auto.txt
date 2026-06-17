@@ -554,7 +554,7 @@ DATATYPE_2=1001
 DATATYPE_3=1002
 NUMDATA_TYPE_NUM=3
 STRDATA_TYPE_NUM=1
-DATA_NUM=21
+DATA_NUM=33
 TYPENAME=SEリスト
 ITEMNAME_NUM=4
 ITEMNAME0=ファイル名
@@ -712,6 +712,18 @@ DEFAULT_VAL_3=1
 "SE/芝生の上を歩く.ogg",100,100,1,<<!--DATANAME--!>>ブロックを押す(芝),
 "SE/土の上を歩く.ogg",100,100,1,<<!--DATANAME--!>>ブロックを押す(砂利),
 "SE/水をバシャッとかける1.ogg",100,100,1,<<!--DATANAME--!>>ブロックを押す(水),
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"SE/説明ウインドウが開く.mp3",100,100,1,<<!--DATANAME--!>>説明表示,
+"SE/キャンセル9.mp3",100,100,1,<<!--DATANAME--!>>ジャンプ,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
+"",100,100,1,<<!--DATANAME--!>>,
 
 <<--CSV_END-->>
 ----
