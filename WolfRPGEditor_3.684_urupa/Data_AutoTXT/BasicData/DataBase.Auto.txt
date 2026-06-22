@@ -9,7 +9,7 @@ DATATYPE_0=1000
 DATATYPE_1=2000
 NUMDATA_TYPE_NUM=1
 STRDATA_TYPE_NUM=1
-DATA_NUM=7
+DATA_NUM=8
 TYPENAME=[PHY]物理演算定数
 ITEMNAME_NUM=2
 ITEMNAME0=数値
@@ -139,6 +139,7 @@ DEFAULT_VAL_1=0
 15999,"",<<!--DATANAME--!>>速度上限[mpx/f],
 5999,"",<<!--DATANAME--!>>速度上限(プレイヤー移動)[mpx/f],
 15999,"",<<!--DATANAME--!>>スライディング速度[mpx/f],
+5,"",<<!--DATANAME--!>>物理オブジェクト数上限,
 
 <<--CSV_END-->>
 ----

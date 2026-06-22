@@ -128,6 +128,6 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]パズルメーカーとの最終会話"] <コモンEv 145> 
+■イベントの挿入[名]： ["[BLK]パズルメーカーとの最終会話"] <コモンEv 153> 
 ■
 [COMMAND_TEXT_END]

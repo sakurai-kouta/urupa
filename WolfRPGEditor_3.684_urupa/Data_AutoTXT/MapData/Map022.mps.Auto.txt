@@ -152,6 +152,6 @@ WoditorEvCOMMAND_START
 WoditorEvCOMMAND_END
 --
 [COMMAND_TEXT_START]
-■イベントの挿入[名]： ["[BLK]ブロック接触時イベント"] <コモンEv 95> 
+■イベントの挿入[名]： ["[BLK]ブロック接触時イベント"] <コモンEv 99> 
 ■
 [COMMAND_TEXT_END]
