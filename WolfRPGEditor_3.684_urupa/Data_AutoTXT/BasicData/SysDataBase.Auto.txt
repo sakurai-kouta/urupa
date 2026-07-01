@@ -228,7 +228,7 @@ DEFAULT_VAL_7=0
 "MapData/Map025.mps",3,-1,0,-2,"","","",<<!--DATANAME--!>>3-Ex,
 "MapData/Map026.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-Ex,
 "MapData/Map027.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-4,
-"",-1,-1,0,-2,"","","",<<!--DATANAME--!>>,
+"MapData/Map028.mps",3,-1,0,-2,"","","",<<!--DATANAME--!>>3-5,
 
 <<--CSV_END-->>
 ----
