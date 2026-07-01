@@ -15,7 +15,7 @@ DATATYPE_6=2002
 DATATYPE_7=2003
 NUMDATA_TYPE_NUM=4
 STRDATA_TYPE_NUM=4
-DATA_NUM=27
+DATA_NUM=29
 TYPENAME=マップ設定
 ITEMNAME_NUM=8
 ITEMNAME0=マップファイル名
@@ -222,11 +222,13 @@ DEFAULT_VAL_7=0
 "MapData/Map019.mps",6,-1,0,-2,"","","",<<!--DATANAME--!>>懐かしい塔,
 "MapData/Map020.mps",5,-1,0,-2,"","","",<<!--DATANAME--!>>エンディングステージ,
 "MapData/Map021.mps",-1,-1,0,-2,"","","",<<!--DATANAME--!>>パズルメーカーの部屋,
-"MapData/Map022.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-4,
+"MapData/Map022.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-5,
 "MapData/Map023.mps",1,-1,0,-2,"","","",<<!--DATANAME--!>>1-Ex,
 "MapData/Map024.mps",2,-1,0,-2,"","","",<<!--DATANAME--!>>2-Ex,
 "MapData/Map025.mps",3,-1,0,-2,"","","",<<!--DATANAME--!>>3-Ex,
 "MapData/Map026.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-Ex,
+"MapData/Map027.mps",4,-1,0,-2,"","","",<<!--DATANAME--!>>4-4,
+"",-1,-1,0,-2,"","","",<<!--DATANAME--!>>,
 
 <<--CSV_END-->>
 ----
