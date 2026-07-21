@@ -2026,7 +2026,7 @@ DATATYPE_0=1000
 DATATYPE_1=2000
 NUMDATA_TYPE_NUM=1
 STRDATA_TYPE_NUM=1
-DATA_NUM=7
+DATA_NUM=8
 TYPENAME=[SYSTEM]ゲーム定数
 ITEMNAME_NUM=2
 ITEMNAME0=数値
@@ -2154,6 +2154,7 @@ DEFAULT_VAL_1=0
 0,"set_map",<<!--DATANAME--!>>action_マップデータ送信,
 0,"get_map",<<!--DATANAME--!>>action_マップデータ受信,
 0,"get_list",<<!--DATANAME--!>>action_マップリスト受信,
+0,"b",<<!--DATANAME--!>>ゲームバージョン(サブ),
 
 <<--CSV_END-->>
 ----
