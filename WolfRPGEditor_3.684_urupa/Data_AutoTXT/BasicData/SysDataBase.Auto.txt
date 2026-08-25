@@ -1645,7 +1645,7 @@ DEFAULT_VAL_0=0
 "読込ファイル名",
 "",<<!--DATANAME--!>>※空データ,
 "CharaChip/大根ちゃん.png",<<!--DATANAME--!>>大根ちゃん,
-"CharaChip\tesT.png",<<!--DATANAME--!>>,
+"CharaChip/Special_Wolfarl.png",<<!--DATANAME--!>>ウルファールさん,
 "",<<!--DATANAME--!>>,
 "",<<!--DATANAME--!>>,
 "",<<!--DATANAME--!>>,
